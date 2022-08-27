@@ -1,0 +1,18 @@
+Rock, Paper, Scissors Game
+
+Rock paper scissors is a game that can be played with 2 or more players.
+In this version, one player will compete against the computer.
+
+Rules:
+Player 1 will choose 1 of 3 options: Rock, paper, or scissors.
+The computer will randomly select one as well.
+To win the game, player 1 must correctly choose the object that will beat the computer - luck of the draw!
+
+Rock beats scissors.
+Scissors beats paper.
+Paper beats rock.
+
+Once the player enters their selection
+A message will appear to notify the player is they won or loss against the computer.
+
+The player can then choose to play again or quit.
